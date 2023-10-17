@@ -1,0 +1,3 @@
+This is testcase 006: Sanity test case...
+Close DB connection after executing testcase
+----------------------------------------------------
